@@ -4,7 +4,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/shreyan-gautam-8889201ba/)<br>
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ9hBLye5Gzhjkitf2Ft-fcdHX6chTQ9BEcA&usqp=CAU">](https://www.codechef.com/users/shreyan_gautam)
 
-<img src="https://github-readme-stats.vercel.app/api?username=shreyangautam&&show_icons=true&title_color=ffffff&icon_color=F5AC20&text_color=daf7dc&bg_color=ff105f">
+<img src="https://github-readme-stats.vercel.app/api?username=shreyangautam&&show_icons=true&title_color=ffffff&icon_color=F5AC20&text_color=daf7dc&bg_color=ff105f" style="height:10px;">
 <!--
 **shreyangautam/shreyangautam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
