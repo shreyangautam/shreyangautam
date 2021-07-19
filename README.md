@@ -1,4 +1,8 @@
 ### Hi there 👋
+[<img src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/shreyangautam)
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:shreyangautam005@gmail.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/shreyan-gautam-8889201ba/)
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=shreyangautam&&show_icons=true&title_color=ffffff&icon_color=F5AC20&text_color=daf7dc&bg_color=ff105f">
 <!--
