@@ -1,10 +1,11 @@
-### Hi, I'm Shreyan Gautam👋
-<p><img align="" alt="gif" src ="https://github.com/shreyangautam/desktop-tutorial/blob/main/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.gif" width="50%" ></p>
+### <center>Hi, I'm Shreyan Gautam👋</center><p><img align="" alt="gif" src ="https://github.com/shreyangautam/desktop-tutorial/blob/main/jump-hello-transparent.gif"  >
+<p>></p>
 <a href="https://github.com/shreyangautam"><img src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="mailto:shreyangautam005@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> <a/>
 <a href ="https://www.linkedin.com/in/shreyan-gautam-8889201ba/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=shreyangautam&&show_icons=true&title_color=ffffff&icon_color=F5AC20&text_color=daf7dc&bg_color=ff105f" >
+  <img align="" alt="gif" src ="https://github.com/shreyangautam/desktop-tutorial/blob/main/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.gif" width="50%">
 <!--<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="shreyan-gautam-8889201ba" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/shreyan-gautam-8889201ba?trk=profile-badge">Shreyan Gautam</a></div>//
               
 <!--
