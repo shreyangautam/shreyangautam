@@ -1,4 +1,5 @@
-### Hi, I'm Shreyan Gautam👋<iframe src="https://gifer.com/embed/1YxA" width=480 height=258.240 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+### Hi, I'm Shreyan Gautam👋
+<img src ="https://i.gifer.com/1YxA.gif">
 [<img src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/shreyangautam)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:shreyangautam005@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/shreyan-gautam-8889201ba/)<br>
