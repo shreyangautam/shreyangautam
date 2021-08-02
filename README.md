@@ -1,4 +1,4 @@
-### <center>Hi, I'm Shreyan Gautam👋</center><p><img align="" alt="gif" src ="https://github.com/shreyangautam/desktop-tutorial/blob/main/jump-hello-transparent.gif"  >
+### <center>Hi, I'm Shreyan Gautam👋</center><p><img align="" alt="gif" src ="https://github.com/shreyangautam/shreyangautam/blob/main/jump-hello-transparent.gif"  >
 
 <a href="https://github.com/shreyangautam"><img src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="mailto:shreyangautam005@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> <a/>
