@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Shreyan Gautam👋
 
 [<img src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/shreyangautam)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:shreyangautam005@gmail.com)
