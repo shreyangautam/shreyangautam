@@ -1,4 +1,4 @@
-### Hi, I'm Shreyan Gautam👋
+### Hi, I'm Shreyan Gautam👋<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Faminoapps.com%2Fc%2Fgacha_amino%2Fpage%2Fuser%2Flazyw00lff%2F726V_R6IBfaQoxepMMRJZj7jM3dw8k5gm1&psig=AOvVaw1F9ZaUZwHF1ImSS2rJGMCU&ust=1628006056884000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjhzq3ZkvICFQAAAAAdAAAAABAO" width="50">
 
 [<img src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/shreyangautam)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:shreyangautam005@gmail.com)
