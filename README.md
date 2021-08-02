@@ -1,5 +1,5 @@
 ### Hi, I'm Shreyan Gautam👋
-.[<img alt="gif" src ="https://i.gifer.com/1YxA.gif">].
+<p><img alt="gif" src ="https://github.com/shreyangautam/desktop-tutorial/blob/main/unnamed.gif"></p>
 [<img src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/shreyangautam)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:shreyangautam005@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/shreyan-gautam-8889201ba/)<br>
