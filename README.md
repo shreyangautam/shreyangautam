@@ -5,9 +5,10 @@
 <a href ="https://www.linkedin.com/in/shreyan-gautam-8889201ba/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
   ![](https://visitor-badge.glitch.me/badge?page_id=shreyangautam.shreyangautam)
 <br>
-<div>
+<div> 
+ <img align="" alt="gif" src ="https://github.com/shreyangautam/shreyangautam/blob/main/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.gif" height="400">
 <img src="https://github-readme-stats.vercel.app/api?username=shreyangautam&&show_icons=true&title_color=ffffff&icon_color=F5AC20&text_color=daf7dc&bg_color=ff105f" >
-  <img align="" alt="gif" src ="https://github.com/shreyangautam/shreyangautam/blob/main/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.gif" height="400">
+ 
   </div>
 <!--<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="shreyan-gautam-8889201ba" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/shreyan-gautam-8889201ba?trk=profile-badge">Shreyan Gautam</a></div>//
               
