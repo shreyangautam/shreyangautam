@@ -1,12 +1,14 @@
-### <center>Hi, I'm Shreyan Gautam👋</center><p><img align="" alt="gif" src ="https://github.com/shreyangautam/shreyangautam/blob/main/jump-hello-transparent.gif"  >
-  
+### <center>Hi, I'm Shreyan Gautam👋
+ <img align="" alt="gif" src ="https://github.com/shreyangautam/shreyangautam/blob/main/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.gif" height="400">
+</center><p><img align="" alt="gif" src ="https://github.com/shreyangautam/shreyangautam/blob/main/jump-hello-transparent.gif"  >
+ 
 <a href="https://github.com/shreyangautam"><img src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="mailto:shreyangautam005@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> <a/>
 <a href ="https://www.linkedin.com/in/shreyan-gautam-8889201ba/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
   ![](https://visitor-badge.glitch.me/badge?page_id=shreyangautam.shreyangautam)
 <br>
 <div> 
- <img align="" alt="gif" src ="https://github.com/shreyangautam/shreyangautam/blob/main/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.gif" height="400">
+
 <img src="https://github-readme-stats.vercel.app/api?username=shreyangautam&&show_icons=true&title_color=ffffff&icon_color=F5AC20&text_color=daf7dc&bg_color=ff105f" >
  
   </div>
