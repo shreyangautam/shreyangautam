@@ -1,3 +1,14 @@
+<br clear="both">
+
+<h1 align="center">Hey, I am Sayantani !</h1>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/eCSLYksOOnMNf7Klb3/giphy.gif"  />
+</div>
+
+
 ### <center>Hi, I'm Shreyan Gautam👋
  <img align="" alt="gif" src ="https://github.com/shreyangautam/shreyangautam/blob/main/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.gif" height="200">
 </center><img align="" alt="gif" src ="https://github.com/shreyangautam/shreyangautam/blob/main/jump-hello-transparent.gif"  >
